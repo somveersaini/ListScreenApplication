@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListScreenApplication</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="retry">RETRY</string>
+    <string name="loading">loading</string>
+    <string name="age_height"> %s years (%s cm)</string>
+    <string name="star"> %s (%s star)</string>
+</resources>
